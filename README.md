@@ -11,15 +11,6 @@ html <html lang="en">
 
     <p>Lien des Exercices</p>
 
-    <ul>
-        <li>
-
-        <a href="https://ayukami.github.io/12/">
-        Lien 01
-
-        </li>
-    </ul>
-
     
 </body>
 </html>
