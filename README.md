@@ -8,9 +8,7 @@ html <html lang="en">
     <h1> cours datadesign 2023 seance 2</h1>
 
     <p> Exercices faits dans le cadre du cours Data Design à Paris 8.</p>
-
-    <p>Lien des Exercices</p>
-
+Lien : https://ayukami.github.io/12/
     
 </body>
 </html>
